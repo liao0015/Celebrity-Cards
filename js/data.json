@@ -1,0 +1,152 @@
+[
+  {
+    "fullname":"Angelina Jolie Pitt",
+    "id":0,
+    "age":40,
+    "income": 1000,
+    "shortname":"Angelina_Jolie",
+    "reknown":"Lara Croft: Tomb Raider",
+    "bio":"Angelina Jolie Pitt is an American actress, filmmaker, and humanitarian. She has received an Academy Award, two Screen Actors Guild Awards, and three Golden Globe Awards, and has been cited as Hollywood's highest-paid actress.",
+      "image": "Photo of Angelina Jolie Pitt"
+  },
+  {
+    "fullname":"James Joseph Parsons",
+    "id":1,
+    "age": 42,
+    "income": 2000,
+    "shortname":"Jim_Parsons",
+    "reknown":"The Big Bang Theory",
+    "bio":"James Joseph \"Jim\" Parsons is an American actor. He is best known for playing Sheldon Cooper in the CBS sitcom The Big Bang Theory, with his performance often cited as a significant reason for the program's success.",
+    "image": "Photo of James Joseph Parsons"
+  },
+  {
+    "fullname":"Julia Fiona Roberts",
+    "id":2,
+    "age": 47,
+    "income": 3000,
+    "shortname":"Julia_Roberts",
+    "reknown":"Pretty Woman",
+    "bio":"Julia Fiona Roberts is an American actress and producer. She became a movie star after headlining the romantic comedy Pretty Woman, which grossed $464 million worldwide.",
+    "image": "Photo of Julia Fiona Roberts"
+  },
+  {
+    "fullname":"Megan Denise Fox",
+    "id":3,
+    "age": 29,
+    "income": 4000,
+    "shortname":"Megan_Fox",
+    "reknown":"Transformer",
+    "bio":"Megan Denise Fox is an American actress and model. She began her acting career in 2001, with several minor television and film roles, and played a regular role on the Hope and Faith television sitcom.",
+    "image": "Photo of Megan Denise Fox"
+  },
+  {
+    "fullname":"Miranda May Kerr",
+    "id":4,
+    "age": 32,
+    "income": 5000,
+    "shortname":"Miranda_Kerr",
+    "reknown":"Victoria's Secret",
+    "bio":"Miranda May Kerr is an Australian model. Kerr rose to prominence in 2007 as one of the Victoria's Secret Angels.",
+      "image": "Photo of Miranda May Kerr"
+  },
+  {
+    "fullname":"Owen Cunningham Wilson",
+    "id":5,
+    "age": 46,
+    "income": 6000,
+    "shortname":"Owen_Wilson",
+    "reknown":"Meet the Parents",
+    "bio":"Owen Cunningham Wilson is an American actor, voice-over artist, writer, producer, and screenwriter. His older brother Andrew and his younger brother Luke are also actors.",
+      "image": "Photo of Owen Cunningham Wilson"
+  },
+  {
+    "fullname":"Robert De Niro",
+    "id":6,
+    "age": 72,
+    "income": 7000,
+    "shortname":"Robert_De_Niro",
+    "reknown":"Taxi Driver",
+    "bio":"Robert De Niro is an American actor and producer who has starred in over 90 films. His first major film roles were in the sports drama Bang the Drum Slowly and Martin Scorsese's crime film Mean Streets.",
+      "image": "Photo of Robert De Niro"
+  },
+  {
+    "fullname":"Robert John Downey, Jr.",
+    "id":7,
+    "age": 50,
+    "income": 8000,
+    "shortname":"Robert_Downey_Jr",
+    "reknown":"Iron Man",
+    "bio":"Robert John Downey, Jr. is an American actor whose career has included critical and popular success in his youth, followed by a period of substance abuse and legal troubles, and a resurgence of commercial success in middle age.",
+      "image": "Photo of Robert John Downey, Jr."
+  },
+    {
+    "fullname":"Courteney Bass Cox",
+    "id":8,
+    "age": 51,
+    "income": 18000,
+    "shortname":"Courteney_Cox",
+    "reknown":"Friends",
+    "bio":"Courteney Bass Cox is an American actress, producer and director. She is best identified for her roles as Monica Geller on the NBC sitcom Friends, Gale Weathers in the horror series Scream.",
+        "image": "Photo of Courteney Bass Cox"
+  },
+    {
+    "fullname":"George Timothy Clooney",
+    "id":9,
+    "age": 54,
+    "income": 28000,
+    "shortname":"George_Clooney",
+    "reknown":"Dr. Doug Ross",
+    "bio":"George Timothy Clooney is an American actor, screenwriter, producer, director, and activist. He has received three Golden Globe Awards for his work as an actor and two Academy Awards, one for acting and the other for producing.",
+        "image": "Photo of George Timothy Clooney"
+  },
+    {
+    "fullname":"Thomas Jacob Black",
+    "id":10,
+    "age":46,
+    "income": 38000,
+    "shortname":"Jack_Black",
+    "reknown":"School of Rock",
+    "bio":"Thomas Jacob \"Jack\" Black is an American actor, comedian, singer, and producer. His acting career has been extensive, starring primarily in comedy films.",
+        "image": "Photo of Thomas Jacob Black"
+  },
+    {
+    "fullname":"Leonardo Wilhelm DiCaprio",
+    "id":11,
+    "age": 40,
+    "income": 48000,
+    "shortname":"Leonardo_Dicaprio",
+    "reknown":"Titanic",
+    "bio":"Leonardo Wilhelm DiCaprio is an American actor and film producer. He has been nominated for ten Golden Globe Awards, winning two, and five Academy Awards.",
+      "image": "Photo of Leonardo Wilhelm DiCaprio"
+  },
+    {
+    "fullname":"Morgan Freeman",
+    "id":12,
+    "age": 78,
+    "income": 58000,
+    "shortname":"Morgan_Freeman",
+    "reknown":"The Shawshank Redemption",
+    "bio":"Morgan Freeman is an American actor and narrator. Freeman has received Academy Award nominations for his performances in Street Smart (1987), Driving Miss Daisy (1989), The Shawshank Redemption (1994) and Invictus (2009), and won the Best Supporting Actor Oscar in 2005 for Million Dollar Baby (2004). He has also won a Golden Globe Award and a Screen Actors Guild Award. Freeman has appeared in many other box office hits, including Glory (1989), Robin Hood: Prince of Thieves (1991), Seven (1995), Deep Impact (1998), The Sum of All Fears (2002), Bruce Almighty (2003), The Dark Knight Trilogy, The Lego Movie (2014), and Lucy (2014). He is known for his distinctively smooth, deep voice. He got his break as part of the cast of the 1970s children's program The Electric Company.",
+      "image": "Photo of Morgan Freeman"
+  },
+    {
+    "fullname":"Paul Stephen Rudd",
+    "id":13,
+    "age": 46,
+    "income": 68000,
+    "shortname":"Paul_Rudd",
+    "reknown":"Clueless",
+    "bio":"Paul Stephen Rudd is an American actor, comedian, writer and producer. He has primarily appeared in comedies, and is known for his roles in the films Clueless (1995), Wet Hot American Summer (2001), Anchorman: The Legend of Ron Burgundy (2004), The 40-Year-Old Virgin (2005), Knocked Up (2007), Role Models (2008), I Love You, Man (2009), Wanderlust (2011) This Is 40 (2012) and Anchorman 2: The Legend Continues (2013). In television, he appeared in the early 1990s on the NBC drama Sisters and some years later he appeared as Mike Hannigan on the NBC sitcom Friends. ",
+      "image": "Photo of Paul Stephen Rudd"
+  },
+    {
+    "fullname":"Zooey Claire Deschanel",
+    "id":14,
+    "age":35,
+    "income": 78000,
+    "shortname":"Zooey_Deschanel",
+    "reknown":"500 Days of Summer",
+    "bio":"Zooey Claire Deschanel is an American actress, singer-songwriter, model, and producer. In 1999, Deschanel made her film debut in Mumford, followed by her breakout role as Anita Miller in Cameron Crowe's 2000 semi-autobiographical film Almost Famous.",
+      "image": "Photo of Zooey Claire Deschanel"
+  }
+]

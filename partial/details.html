@@ -1,0 +1,11 @@
+
+<div class="container jumbotron" ng-model="celebrities">
+    <h2>{{celebrities[selectedItem].fullname}}</h2>	
+    <img ng-src="img/{{celebrities[selectedItem].shortname}}.jpg" alt=" {{celebrities[selectedItem].image}}">
+    <p>Age: {{celebrities[selectedItem].age}}</p>
+    <p>Income: {{celebrities[selectedItem].income | currency:"USD$"}}</p>
+    <p>Bio: {{celebrities[selectedItem].bio}}</p>
+    <a href="index.html#/list">&laquo; Back to List</a>
+</div>
+
+
